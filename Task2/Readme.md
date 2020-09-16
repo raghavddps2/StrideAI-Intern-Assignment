@@ -33,7 +33,7 @@ python3 main.py
 
 ### Live Project
 
-This project is live at:  https://pdf-text-extracter.herokuapp.com/extactText
+This project is live at:  https://pdf-text-extracter.herokuapp.com/extractText
 
 Method: POST Request
 Key for the file to be sent: *file*
