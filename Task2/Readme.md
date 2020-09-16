@@ -37,7 +37,7 @@ python3 main.py
 
 This project is live at:  https://pdf-text-extracter.herokuapp.com/extractText
 
-Method: POST Request
+Method: POST
 Key for the file to be sent: *file*
 <a href="https://ibb.co/PDgXndx"><img src="https://i.ibb.co/CPQCZfB/Screenshot-from-2020-09-16-20-32-57.png" alt="Live-Request-Example" border="0"></a>
 
@@ -47,4 +47,4 @@ Curl Request:
 curl --location --request POST 'https://pdf-text-extracter.herokuapp.com/extractText' \
 --form 'file=file_location'
 ```
-Please change the file_location to where your file is present.
+Please change the file_location to where the file is present in your system
