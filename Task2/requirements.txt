@@ -1,0 +1,11 @@
+chardet==3.0.4
+click==7.1.2
+Flask==1.1.2
+itsdangerous==1.1.0
+Jinja2==2.11.2
+MarkupSafe==1.1.1
+pdfminer3==2018.12.3.0
+pycryptodome==3.9.8
+PyPDF2==1.26.0
+sortedcontainers==2.2.2
+Werkzeug==1.0.1
