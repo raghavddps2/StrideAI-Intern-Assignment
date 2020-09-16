@@ -29,8 +29,8 @@ python3 main.py
 ```
 
 ### How to make a request (Postman Screenshot)
-<a href="https://ibb.co/jJj3c4R"><img src="https://i.ibb.co/TWNPVhL/Screenshot-from-2020-09-16-20-18-14.png" alt="Screenshot-from-2020-09-16-20-18-14" border="0"></a>
-<a href="https://ibb.co/PDgXndx"><img src="https://i.ibb.co/CPQCZfB/Screenshot-from-2020-09-16-20-32-57.png" alt="Screenshot-from-2020-09-16-20-32-57" border="0"></a>
+<a href="https://ibb.co/jJj3c4R"><img src="https://i.ibb.co/TWNPVhL/Screenshot-from-2020-09-16-20-18-14.png" alt="Localhost-Request-Example" border="0"></a>
+
 
 ### Live Project
 
@@ -38,8 +38,7 @@ This project is live at:  https://pdf-text-extracter.herokuapp.com/extractText
 
 Method: POST Request
 Key for the file to be sent: *file*
-<img src="https://ibb.co/jJj3c4R
-" width="800px" height="auto">
+<a href="https://ibb.co/PDgXndx"><img src="https://i.ibb.co/CPQCZfB/Screenshot-from-2020-09-16-20-32-57.png" alt="Live-Request-Example" border="0"></a>
 Curl Request: 
 ```sh
 curl --location --request POST 'https://pdf-text-extracter.herokuapp.com/extractText' \
