@@ -35,7 +35,7 @@ python3 findStockDetails.py
 
 ### How to test for any new stock.
 
-1. Simply pass the new stock name to the function findStockDetails and it will give the name,last_traded_time and the price in the response.
+1. Simply pass the new stock name to the function findStockDetails and it will give the name,last_traded_time and the price as the response.
 
 2. Example
 ```
