@@ -5,13 +5,13 @@
     Details:
 
         1. This is a simple scraper that is used to scrap the actual name in the listing and the last traded
-           time from the New York Stock Excahneg website
+           time from the New York Stock Exchange website
         2. Selenium is used to automate the process.  
         3. I have used the firefox web driver, please uncomment line 26 and line 19 if you are using chrome.
             and comment line 19 and line 28
         4. The remaining flow
-            1. Seaches for the stock on thhe url: https://www.nyse.com/listings_directory/stock
-            2. Extracts the specific url for teh stock and scrapes the actual_name and the last_traded_time.
+            1. Seaches for the stock on the url: https://www.nyse.com/listings_directory/stock
+            2. Extracts the specific url for the stock and scrapes the actual_name and the last_traded_time.
 
 '''
 #Importing selenium
