@@ -1,8 +1,6 @@
 '''
     @Author: Raghav Maheshwari
     Package Used: pdfminer3
-    Docs: https://buildmedia.readthedocs.org/media/pdf/pdfminer-docs/latest/pdfminer-docs.pdf
-    Github: https://github.com/gwk/pdfminer3
 
     Details:
         1. Create a resource manager and a layout params object
