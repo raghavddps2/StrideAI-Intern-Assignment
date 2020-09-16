@@ -29,7 +29,7 @@ python3 main.py
 ```
 
 ### How to make a request (Postman Screenshot)
-<img src="https://drive.google.com/file/d/1ykWCw1DNr67wH_ieqsM2Voz99Ltm-1Gi/view?usp=sharing" width="800px" height="auto">
+<img src="https://ibb.co/PDgXndx" width="800px" height="auto">
 
 ### Live Project
 
@@ -37,7 +37,8 @@ This project is live at:  https://pdf-text-extracter.herokuapp.com/extractText
 
 Method: POST Request
 Key for the file to be sent: *file*
-<img src="https://drive.google.com/file/d/1-iUuc2P5CsPmHsLc9xv70uqXDagtOV5W/view?usp=sharing" width="800px" height="auto">
+<img src="https://ibb.co/jJj3c4R
+" width="800px" height="auto">
 Curl Request: 
 ```sh
 curl --location --request POST 'https://pdf-text-extracter.herokuapp.com/extractText' \
