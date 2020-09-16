@@ -46,6 +46,8 @@ Result:
 ```
 
 Example screenshot - With the Results Scraped.
+
+
 <a href="https://ibb.co/7GGsCPx"><img src="https://i.ibb.co/fCCjFfV/Screenshot-from-2020-09-17-03-34-39.png" alt="Screenshot-from-2020-09-17-03-34-39" border="0"></a>
 
 
